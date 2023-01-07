@@ -2,6 +2,15 @@
 
 This repository contains Data Mining exercises from my BA in Data Science at Univesp.
 
+##### Used Libraries:
+
+Pandas <br>
+Numpy <br>
+Seaborn <br>
+Matplotlib <br>
+Scikit-learn <br>
+SciPy
+
 #### Week 2 - Processing Database
 
 #### Week 3 - Analysing Dataset and Descriptive Data Analysis
